@@ -1,5 +1,6 @@
 import styled from '@emotion/styled'
 import React from 'react'
+import PropTypes from 'prop-types';
 
 const MensajeError = styled.p`
     background-color: #b7322c;
@@ -15,4 +16,8 @@ export const Error = ({ mensaje }) => {
     return (
         <MensajeError>{ mensaje }</MensajeError>
     )
+}
+
+Error.propTypes = {
+    mensaje: PropTypes.string.isRequired
 }
