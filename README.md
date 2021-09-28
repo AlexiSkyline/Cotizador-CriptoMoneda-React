@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e1b348ed-48e0-4453-8e93-8d13bf7a3824/deploy-status)](https://criptomoneda-byalexis-react.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
